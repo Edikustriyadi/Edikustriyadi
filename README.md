@@ -9,7 +9,7 @@
 - ⚡ Strong focus on **React (Next.js)** and **Svelte (SvelteKit)** for high-performance frontends.  
 - 🔌 Backend experience with **Node.js, Prisma, Drizzle, MySQL, and REST APIs**.  
 - 🌱 Passionate about clean architecture, performance optimization, and UX-driven development.  
-- 🌍 Working as a **freelance web developer on [Upwork](https://www.upwork.com/edikustriyadi25)** helping clients worldwide.  
+- 🌍 Working as a **freelance web developer on [Upwork](https://www.upwork.com/freelancers/edikustriyadi25)** helping clients worldwide.  
 
 ---
 
@@ -40,7 +40,7 @@
 ---
 
 ## 🌍 Connect With Me
-- 💼 Upwork: [My Freelancer Profile](https://www.upwork.com/edikustriyadi25)  
+- 💼 Upwork: [My Freelancer Profile](https://www.upwork.com/freelancers/edikustriyadi25)  
 - 📧 Email: edikustriyadi21@gmail.com
 - 💬 LinkedIn: [linkedin.com/in/edi-kustriyadi](https://linkedin.com/in/edi-kustriyadi)  
 
